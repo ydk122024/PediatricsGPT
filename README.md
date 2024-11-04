@@ -68,15 +68,7 @@ quality, including usefulness, correctness, consistency, and smoothness. Advance
 ![teaser](images/GPT-4_eval.png)
 Doctor approval of LLM assistants is a vital step toward realistic applications. We invite several doctors to determine the winner of pairwise models by the majority voting rule. The evaluation requires simultaneous consideration of the responses’ professionalism, factuality, and safety.
 ![teaser](images/Doctor_eval.png)
-To intuitively compare the output quality of medical LLMs, we show the responses of different models for each of the three types of medical inquiries.
-![teaser](images/model_response1.png)
-> Comparison results of model responses on the medical knowledge question-answer task.<br>
 
-![teaser](images/model_response2.png)
-> Comparison results of model responses on the evidence-based diagnosis task.<br>
-
-![teaser](images/model_response3.png)
-> Comparison results of model responses on the treatment recommendation task.<br>
 
 ## Limitations Statement
 The user should assume all medical risks and responsibilities in the use of the model. Model responses should be treated with caution due to the possibility of hallucinations.
